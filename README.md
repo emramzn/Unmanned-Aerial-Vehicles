@@ -1,6 +1,7 @@
 
+## Bu döküman söz konusu projenin genel olarak tanıtımı için hazırlanmıştır.
 ![](RoutingForUAV(Gif_1).gif)
-#### Rota Oluşturma işlemi
+### Rota Oluşturma işlemi
 Kullanıcı tarafından, söz konusu programa aktarılan hedef nokta bilgileri, aralarındaki mesafeler Haversin metodu vasıtası ile hesaplandıktan sonra Dijkstra algoritması devreye girer ve en kısa rota, verilen hedef nokta değerleri doğrultusunda hesaplanır. Hesaplamalar yapıldıktan sonra Google Haritalar (Google Maps) ‘ ın sunduğu ‘gmapcontrol’ aracı üzerinde hesaplama sonuçları görsel olarak kullanıcıya yansıtılır. GmapControl aracı, Google Haritalar üzerinde çeşitli işlemler yapmamıza olanak sağlayan bir araçtır. Yukaridaki şekilde görüldüğü gibi harita üzerinde grafiksel işlemlerin gerçekleştirilmesine olanak sağlamaktadır.
 
 
