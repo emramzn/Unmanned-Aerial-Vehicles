@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29123.88
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoogleMapAndRotation", "GoogleMapAndRotation\GoogleMapAndRotation.csproj", "{B718B976-1512-4E64-9420-D5B4C76ADB3E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B718B976-1512-4E64-9420-D5B4C76ADB3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B718B976-1512-4E64-9420-D5B4C76ADB3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B718B976-1512-4E64-9420-D5B4C76ADB3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B718B976-1512-4E64-9420-D5B4C76ADB3E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {03800918-1E0E-48D9-98C2-44AAAC044A8E}
+	EndGlobalSection
+EndGlobal
