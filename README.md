@@ -30,4 +30,4 @@ Günümüzde ağırlıklı olarak askeri görevlerde sürü hareketinden yararla
 (Lisans Bitirme Projesi)
 ***
 * E-posta: emramzn@gmail.com
-- [LinkedLn](https://www.linkedin.com/in/emre-r-aydin-08864b14a/)
+- [Linkedin](https://www.linkedin.com/in/emre-r-aydin-08864b14a/)
